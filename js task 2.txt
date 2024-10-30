@@ -1,0 +1,30 @@
+
+1) fordan isdifade ederek yuxaridaki hisseni logda cixaran kod yazin
+*
+**
+***
+****
+*****
+
+2) fordan isdifade ederek yuxaridaki neticeni alan kod yazin
+
+*****
+****
+***
+**
+* 
+
+3) istifadeciden ad soyad ve yas kimi deyerler alin 
+ve sonda isdifadecinin dogum ilini qeyd edib loga veren kod yazin
+meselen "Ali Aliyev siz 1999 cu ilde anadan olmusuz"
+
+4)100 e kimi reqemlerden fordan isdifade ederek 5 e bolunenleri 
+logda cixaran kod yazin
+
+5) 2 deyisen yaradin username ve password adinda eger isdifadeci
+prompda her ikisini duzgun daxil ederse yeni username ile password dogru 
+olarsa logda onu salamlayan kod cixsin burda prompt ve logical operatorlardan
+isdifade edeceksiz 
+ 
+
+
